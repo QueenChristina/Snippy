@@ -1,4 +1,4 @@
-# snippy
+# Snippy
 Minimal snipping tool for easy copying of parts of the screen.
 
 Takes up the minimal screen real estate for maximum productivity.
